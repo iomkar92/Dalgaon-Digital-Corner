@@ -57,7 +57,7 @@ export function organizationJsonLd() {
       "@type": "PostalAddress",
       streetAddress: siteConfig.contact.address,
       addressLocality: "Dalgaon",
-      addressRegion: "Assam",
+      addressRegion: "kalimpong",
       addressCountry: "IN",
     },
     openingHours: siteConfig.contact.hours,
@@ -91,7 +91,7 @@ export function serviceJsonLd(service: Service) {
       name: siteConfig.name,
       url: siteConfig.url,
     },
-    areaServed: "Dalgaon, Assam, India",
+    areaServed: "Dalgaon, Kalimpong, India",
     url: `${siteConfig.url}/services/${service.slug}`,
   };
 }
