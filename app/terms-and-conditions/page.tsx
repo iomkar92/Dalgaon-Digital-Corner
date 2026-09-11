@@ -43,8 +43,7 @@ export default function TermsPage() {
           <p className="mt-2">
             We provide design, website design &amp; development, online and
             digital services (such as form filling and applications), and
-            mobile-related services to individuals and businesses in and
-            around Dalgaon. Exact deliverables, pricing, and timelines for
+            mobile-related services to individuals and businesses. Exact deliverables, pricing, and timelines for
             each project are confirmed with you directly — in person, by
             phone, or by WhatsApp/email — before work begins.
           </p>

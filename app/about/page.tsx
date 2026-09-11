@@ -10,7 +10,7 @@ import { siteConfig } from "@/data/site";
 export const metadata: Metadata = buildMetadata({
   title: "About Us",
   description:
-    "Learn about Dalgaon Digital Corner — a local digital services and creative solutions business helping individuals and businesses in Dalgaon.",
+    "Learn about Dalgaon Digital Corner — a digital services and creative solutions business helping individuals and businesses.",
   path: "/about",
 });
 
@@ -19,7 +19,7 @@ const highlights = [
     icon: Compass,
     title: "Our Mission",
     description:
-      "To make quality design and digital services accessible to everyone in Dalgaon — from a first-time shop owner to an established local business.",
+      "To make quality design and digital services accessible to everyone — from a first-time shop owner to an established local business.",
   },
   {
     icon: Target,
@@ -31,7 +31,7 @@ const highlights = [
     icon: Users2,
     title: "Who We Serve",
     description:
-      "Individuals, students, shop owners, and small businesses across Dalgaon who need reliable digital help without going to a big city.",
+      "Individuals, students, shop owners, and small businesses who need reliable digital help without going to a big city.",
   },
   {
     icon: HeartHandshake,
@@ -65,7 +65,7 @@ export default function AboutPage() {
           <SectionHeading
             eyebrow="About Us"
             title={`About ${siteConfig.name}`}
-            description="A local digital services and creative solutions business, built to give individuals and small businesses in Dalgaon a real digital presence."
+            description="A digital services and creative solutions business, built to give individuals and small businesses a real digital presence."
             className="mt-6"
           />
         </Container>

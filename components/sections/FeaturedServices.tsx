@@ -14,7 +14,7 @@ export function FeaturedServices() {
           <SectionHeading
             eyebrow="Popular Picks"
             title="Services people ask for most"
-            description="A quick look at what customers in Dalgaon request the most."
+            description="A quick look at what customers request the most."
             className="max-w-xl"
           />
           <Button href="/services" variant="ghost">

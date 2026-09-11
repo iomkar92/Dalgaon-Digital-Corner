@@ -3,7 +3,7 @@ export const siteConfig = {
   shortName: "Dalgaon Digital",
   tagline: "Your Digital Partner for Design, Websites & More.",
   description:
-    "Dalgaon Digital Corner helps individuals and businesses in Dalgaon build a strong digital presence through creative design, modern websites, and reliable online services.",
+    "Dalgaon Digital Corner helps individuals and businesses build a strong digital presence through creative design, modern websites, and reliable online services.",
   url: "https://www.dalgaondigitalcorner.com",
   locale: "en_IN",
   keywords: [
