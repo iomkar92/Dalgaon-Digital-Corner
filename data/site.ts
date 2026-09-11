@@ -23,7 +23,7 @@ export const siteConfig = {
     whatsappHref: "https://wa.me/917063818927",
     email: "dalgaondc@gmail.com",
     emailHref: "mailto:dalgaondc@gmail.com",
-    address: "[Business Address, Dalgaon, Rango Forest, Jaldhaka, Kalimpong, India - 734503]",
+    address: "Dalgaon, Rango Forest, Jaldhaka, Kalimpong, India - 734503",
     hours: "Mon – Sat: 9:00 AM – 7:00 PM",
   },
   social: {
